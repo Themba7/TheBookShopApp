@@ -1,0 +1,15 @@
+C:\IpelengMekgwe\TheBookShop\TheBookShop.Models\bin\Debug\net5.0\TheBookShop.Models.deps.json
+C:\IpelengMekgwe\TheBookShop\TheBookShop.Models\bin\Debug\net5.0\TheBookShop.Models.dll
+C:\IpelengMekgwe\TheBookShop\TheBookShop.Models\bin\Debug\net5.0\ref\TheBookShop.Models.dll
+C:\IpelengMekgwe\TheBookShop\TheBookShop.Models\bin\Debug\net5.0\TheBookShop.Models.pdb
+C:\IpelengMekgwe\TheBookShop\TheBookShop.Models\bin\Debug\net5.0\TheBookShop.Common.dll
+C:\IpelengMekgwe\TheBookShop\TheBookShop.Models\bin\Debug\net5.0\TheBookShop.Common.pdb
+C:\IpelengMekgwe\TheBookShop\TheBookShop.Models\obj\Debug\net5.0\TheBookShop.Models.csproj.AssemblyReference.cache
+C:\IpelengMekgwe\TheBookShop\TheBookShop.Models\obj\Debug\net5.0\TheBookShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\IpelengMekgwe\TheBookShop\TheBookShop.Models\obj\Debug\net5.0\TheBookShop.Models.AssemblyInfoInputs.cache
+C:\IpelengMekgwe\TheBookShop\TheBookShop.Models\obj\Debug\net5.0\TheBookShop.Models.AssemblyInfo.cs
+C:\IpelengMekgwe\TheBookShop\TheBookShop.Models\obj\Debug\net5.0\TheBookShop.Models.csproj.CoreCompileInputs.cache
+C:\IpelengMekgwe\TheBookShop\TheBookShop.Models\obj\Debug\net5.0\TheBookShop.Models.csproj.CopyComplete
+C:\IpelengMekgwe\TheBookShop\TheBookShop.Models\obj\Debug\net5.0\TheBookShop.Models.dll
+C:\IpelengMekgwe\TheBookShop\TheBookShop.Models\obj\Debug\net5.0\ref\TheBookShop.Models.dll
+C:\IpelengMekgwe\TheBookShop\TheBookShop.Models\obj\Debug\net5.0\TheBookShop.Models.pdb

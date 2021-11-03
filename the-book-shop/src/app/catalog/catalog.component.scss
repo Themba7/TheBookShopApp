@@ -1,0 +1,15 @@
+table {
+  width: 100%;
+}
+
+img {
+  padding-top: 5px;
+  width: 80px;
+  height: 100px;
+  object-fit: cover;
+}
+
+.mat-row:hover {
+  background-color: #e8eaf6;
+  cursor: pointer;
+}

@@ -1,0 +1,11 @@
+C:\IpelengMekgwe\TheBookShop\TheBookShop.Common\bin\Debug\net5.0\TheBookShop.Common.deps.json
+C:\IpelengMekgwe\TheBookShop\TheBookShop.Common\bin\Debug\net5.0\TheBookShop.Common.dll
+C:\IpelengMekgwe\TheBookShop\TheBookShop.Common\bin\Debug\net5.0\ref\TheBookShop.Common.dll
+C:\IpelengMekgwe\TheBookShop\TheBookShop.Common\bin\Debug\net5.0\TheBookShop.Common.pdb
+C:\IpelengMekgwe\TheBookShop\TheBookShop.Common\obj\Debug\net5.0\TheBookShop.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\IpelengMekgwe\TheBookShop\TheBookShop.Common\obj\Debug\net5.0\TheBookShop.Common.AssemblyInfoInputs.cache
+C:\IpelengMekgwe\TheBookShop\TheBookShop.Common\obj\Debug\net5.0\TheBookShop.Common.AssemblyInfo.cs
+C:\IpelengMekgwe\TheBookShop\TheBookShop.Common\obj\Debug\net5.0\TheBookShop.Common.csproj.CoreCompileInputs.cache
+C:\IpelengMekgwe\TheBookShop\TheBookShop.Common\obj\Debug\net5.0\TheBookShop.Common.dll
+C:\IpelengMekgwe\TheBookShop\TheBookShop.Common\obj\Debug\net5.0\ref\TheBookShop.Common.dll
+C:\IpelengMekgwe\TheBookShop\TheBookShop.Common\obj\Debug\net5.0\TheBookShop.Common.pdb

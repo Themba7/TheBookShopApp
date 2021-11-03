@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TheBookShop.Common\TheBookShop.Common.csproj" />
+    <ProjectReference Include="..\TheBookShop.DataAccess\TheBookShop.DataAccess.csproj" />
+    <ProjectReference Include="..\TheBookShop.Models\TheBookShop.Models.csproj" />
+  </ItemGroup>
+
+</Project>

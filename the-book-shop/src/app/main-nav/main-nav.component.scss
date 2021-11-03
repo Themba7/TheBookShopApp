@@ -1,0 +1,43 @@
+:host {
+  .sidenav-container {
+    height: 100%;
+  }
+
+  .sidenav {
+    width: 300px;
+  }
+
+  .sidenav .mat-toolbar {
+    background: inherit;
+  }
+
+  .mat-toolbar.mat-primary {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }
+
+  ul li {
+    list-style: none;
+  }
+
+  .main-content {
+    padding: 20px;
+  }
+
+  .mat-icon {
+    vertical-align: middle;
+    margin-right: 20px;
+  }
+
+  .profile-card {
+    text-align: center;
+    padding: 0 20px 20px 20px;
+    img {
+      width: 100px;
+      height: 100px;
+      object-fit: cover;
+      border-radius: 50%;
+    }
+  }
+}
